@@ -90,6 +90,8 @@ Predicted the price of a sample house to validate model accuracy.
 📧 saisantoshmukadam26@gmail.com  
 💼 [LinkedIn Profile](www.linkedin.com/in/sai-mukadam-54a416267)
 
+🎥 [Video Presentation](https://www.linkedin.com/posts/sai-mukadam-54a416267_oasisinfobyte-datascience-machinelearning-ugcPost-7393249441241182208-2QV7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFhHIoBi2qASKyxOhnRLbthF3I_4mW9roA)
+
 ---
 
 ## ⭐ Support
